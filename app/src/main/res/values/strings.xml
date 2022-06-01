@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyZakatGold</string>
+    <string name="messageWithlink"><a href="link github">view our website</a></string>
+    <string name="longtext1">"Zakat on gold is mandatory similar to Zakat al-mal for all Muslims which is to be charged over the total amount of gold owned by a person if it exceeds a certain quantity. The quantity over which the zakat is applicable to be paid is known as nisab. The nisab for gold or gold jewellery is 85 grams (g) of gold. It means that if a person owns 85g of gold and has held it for more than a (lunar) year then he is obligated to pay zakat over the gold owned by him."</string>
+    <string name="longtext2">"Address : No.2, 1st Floor, 08000 Sungai Petani, Kedah"</string>
+    <string name="longtext3">"Phone Number : 04-4233935"</string>
+    <string name="longtext4">"Email : zakat4uall2@gmail.com"</string>
+</resources>
