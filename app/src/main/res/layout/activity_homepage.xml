@@ -44,6 +44,7 @@
             android:background="@color/metalic_gold"
             android:text="My Zakat Calculator" />
 
+
         <Button
             android:id="@+id/btnAboutus"
             android:layout_width="match_parent"
